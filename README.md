@@ -1,5 +1,5 @@
 # DSFormer
-Official code for paper:  DSformer:Dual-Stream Transformer for Traffic Prediction
+Official code for paper:  Extracting Global Temporal Patterns Within Short Look-Back Windows for Traffic Forecasting
 
 
 
